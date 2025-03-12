@@ -2,6 +2,7 @@
   color: #ffff;
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
+  background-position: center;
   padding: 100px 80px 215px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -32,6 +33,8 @@
 .recipes__videos {
   display: flex;
   justify-content: center;
+  padding-left: 0;
+  margin: 0;
   gap: 40px;
   list-style-type: none;
 }
