@@ -2,6 +2,7 @@
   z-index: 1;
   height: 800px;
   box-sizing: border-box;
+  padding: 30px 80px 40px;
   background-color: #ffff;
   background-image: url(../images/background_header.svg);
   background-position: center;
@@ -60,5 +61,5 @@
 }
 
 .header__paragraph {
-  margin: 28px 0 0;
+  margin: 0;
 }
